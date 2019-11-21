@@ -1,0 +1,13 @@
+/* Markdown Stylesheet
+
+ This stylesheet is used by the Markdown Navigator plugin in PyCharm to format the markdown text for the presentation
+
+ */
+body.multimarkdown-preview {
+   font-size: 150%;
+}
+
+h1, h1 a {
+   font-size: 175%;
+}
+
