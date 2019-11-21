@@ -8,7 +8,7 @@ people_on_meetup = [
 class Meetup:
  def __init__ ( self, members):
         self.members =        members
-    def count_members(self):
+    def count_members(       self):
    return len(self.members)
 
 if __name__ == '__main__':
